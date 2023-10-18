@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "file-leak-example"
 include(":someproject")
+include(":someapplication")
